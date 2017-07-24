@@ -3,7 +3,7 @@
 # Author Jordi Loyzaga
 
 """Copy on walk, file rescue script.
-    Give it a path to walk and expensions list and it will salvage all files form there."""
+    Give it a path to walk and exception lists and it will salvage all files from there."""
 
 import os
 import sys
